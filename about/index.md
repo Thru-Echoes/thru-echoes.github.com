@@ -10,7 +10,7 @@ image:
   creditlink:
 ---
 
-My name is Oliver. I am a graduate researcher working with Dr. Wayne Getz in the
+My name is Oliver. I am a PhD researcher working with Dr. Wayne Getz in the
 Environmental Science, Policy, and Management department at UC Berkeley. I am
 interested in computational ecology and related projects. Specially, I am extremely
 passionate about enhancing accessibility through building software (primarily

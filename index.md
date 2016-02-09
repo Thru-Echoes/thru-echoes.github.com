@@ -8,10 +8,6 @@ image:
   creditlink:
 ---
 
-My name is Oliver. I am a graduate researcher working with Dr. Wayne Getz in the Environmental Science, Policy, and Management department at UC Berkeley. I am interested in computational ecology and related projects.
-
-#### Site Overview
-
 This site will feature projects I am either working on or recently completed.
 These projects may involve code from languages such as JavaScript, R, or Python.
 In addition, I may include thoughts on concepts relating to the state of modern
