@@ -1,9 +1,12 @@
 ---
-layout: page
-title: Thru-Echoes
-tagline: Science 2.0
+layout: home
+excerpt: "A graduate student working on computational ecology and software development."
+tags: [Jekyll, home, overview, blog, template]
+image:
+  feature: glitch-space/glitch-space-6.jpg
+  credit:
+  creditlink:
 ---
-{% include JB/setup %}
 
 ### About Me
 
@@ -47,8 +50,8 @@ I like open source. I like open access. I like progress.
 
 ### Nova Software
 
-https://www.novamodeler.com/
+[Nova Software](https://www.novamodeler.com/)
 
 ### Github
 
-https://github.com/Thru-Echoes
+[My github profile](https://github.com/Thru-Echoes)
