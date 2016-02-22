@@ -8,14 +8,11 @@ image:
   creditlink:
 ---
 
-This site will feature projects I am either working on or recently completed.
-These projects may involve code from languages such as JavaScript, R, or Python.
-In addition, I may include thoughts on concepts relating to the state of modern
-science, open access / source, evolution and who knows what else - enjoy!
+I am a PhD student at UC Berkeley working on computational ecology. I am very interested in open source & access, data science & visualization, the state of modern science, and the stochastic nature of subjective & objective reality. Modelization by random realization.
 
-## What exactly?
+## My Research and Broader Goals
 
-I like to use genetic algorithms, machine learning, and other computational methods to address questions in ecology and evolution. In addition, I want to help create software (primarily browser based) that helps those who do not have extensive programming experience be able to use computational tools. I am primarily working on improving the web-based parts of the Nova modeling software - both as client- and server-side environments - to be able to provide researchers and educators a means of building simulations that use components from dynamical systems, spatial, and agent-based modeling paradigms.  
+I like to use genetic algorithms, mathematical modeling, and other computational methods (like machine-learning!) to address questions in ecology and evolution. My big-scale dreams are to help create software (primarily browser-based) aimed at those who do not have extensive programming experience. This may refer to computational software - think R for mathematical modeling - and ecology and other academic researchers, students, or teachers. I am primarily working on improving the web-based parts of the Nova modeling software, both as client- and server-side environments, to be able to provide researchers and educators a means of building simulations that use components from dynamical systems, spatial, and agent-based modeling paradigms.  
 
 ### Tools
 

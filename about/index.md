@@ -18,7 +18,7 @@ browser based) that can dynamically build computational models based on user
 specifications and modifications - without requiring users to have a rich background
 or expertise in computer programming. The majority of biologists, ecologists, and
 other applied researchers and educators find themselves needing tools that require
-significant knowledge in at least a few programming languages...which they often
+significant knowledge in at least a few programming languages - which they often
 do not have. So I hope some of my work addresses these issues by helping bridge
 this knowledge gap.
 
