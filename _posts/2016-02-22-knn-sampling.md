@@ -1,8 +1,13 @@
 ---
+layout: post
 title: "K-NN & Sample Intensity"
-author: "Oliver Muellerklein"
-date: "22 Feb. 2016"
-output: html_document
+excerpt: "K-NN with Sample Intensity in R"
+tags: [statistics, K-NN, R]
+comments: true
+image:
+  feature: projs/quick-sort7.jpg
+  credit:
+  creditlink:
 ---
 
 How does k-nearest neighbor methods change with sample intensity, variance,
