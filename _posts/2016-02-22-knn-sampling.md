@@ -5,7 +5,7 @@ excerpt: "K-NN with Sample Intensity in R"
 tags: [statistics, K-NN, R]
 comments: true
 image:
-  feature: projs/quick-sort7.jpg
+  feature: glitch-space/glitch-space-7.jpg
   credit:
   creditlink:
 ---
