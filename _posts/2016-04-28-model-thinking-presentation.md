@@ -18,11 +18,11 @@ Some model example web applications can be [found here](https://nature.berkeley.
 
 ## 1 Overview
 
-This is a presentation that I gave (April 28, 2016) to a graduate student led temporal and spatial modeling seminar at UC Berkeley. Here I present a number of ideas in mathematical and statistical modeling from the point of view of both theoretical and practical implementation.  
+This is a presentation that I gave (April 28, 2016) to a graduate student led temporal and spatial modeling seminar at UC Berkeley. Here I present a number of ideas in mathematical and statistical modeling from the point of view of both theoretical and practical implementation.
 
-[Quick reference on model thinking](http://thru-echoes.github.io/learning-to-model/)  
+[Quick reference on model thinking](http://thru-echoes.github.io/learning-to-model/)
 
-#### 1.1 Concepts  
+#### 1.1 Concepts
 
 I plan to cover topics in implementing model thinking both conceptually and numerically, including:
 
@@ -58,7 +58,7 @@ We can think about discrete time in a simple step-wise manner. The simulation ha
 
 We can think about continuous time as a differential equation problem. This can seem daunting...but have no fear because the visual language of the [Nova software](https://www.novamodeler.com/) is here to help! More below...
 
-Instead of updating the model clock by steps, we integrate over a slope from <code>time = t</code> to <code>time = t + 1</code> through <strong>n number of dt "steps" / "bins"</strong>. What this means is that the integration of your model parameters occurs as a function of your dt (change of time) "step". These dt values can be thought of more as bins. It is the same way you would integrate on paper in a calculus class (or whatever class you may be integrating things in).    
+Instead of updating the model clock by steps, we integrate over a slope from <code>time = t</code> to <code>time = t + 1</code> through <strong>n number of dt "steps" / "bins"</strong>. What this means is that the integration of your model parameters occurs as a function of your dt (change of time) "step". These dt values can be thought of more as bins. It is the same way you would integrate on paper in a calculus class (or whatever class you may be integrating things in).
 
 #### 2.3 Change Over Time
 
@@ -72,21 +72,30 @@ Deciding which time approach a simulation takes is so underrated and so very, ve
 
 Here our disease model using discrete time - 50 runs:
 
-<figure class = "image"><img src = "nva-img/sirv_discrete_50runs.png"></img></figure>
+<figure>
+	<a href="../images/nva-img/sirv_discrete_50runs.png"><img src="../images/nva-img/sirv_discrete_50runs.png"></a>
+	<figcaption><a href="" title="SIRV disease model using discrete time iterations">SIRV disease model using discrete time iterations</a>.</figcaption>
+</figure>
 
 <br>
 <hr>
 
 And here is the same model using continuous time with <code>dt = 1</code> - 50 runs:
 
-<figure class = "image"><img src = "nva-img/sirv_continuous_1dt_50runs.png"></img></figure>
+<figure>
+	<a href="../images/nva-img/sirv_continuous_1dt_50runs.png"><img src="../images/nva-img/sirv_continuous_1dt_50runs.png"></a>
+	<figcaption><a href="" title="Continuous time SIRV with dt of 1.0">Continuous time SIRV with dt of 1.0</a>.</figcaption>
+</figure>
 
 <br>
 <hr>
 
 And finally - same continuous model but with <code>dt = 0.1</code> - 50 runs:
 
-<figure class = "image"><img src = "nva-img/sirv_continuous_0.1dt_50runs.png"></img></figure>
+<figure>
+	<a href="../images/nva-img/sirv_continuous_0.1dt_50runs.png"><img src="../images/nva-img/sirv_continuous_0.1dt_50runs.png"></a>
+	<figcaption><a href="" title="Continuous time SIRV with dt of 0.1">Continuous time SIRV with dt of 0.1</a>.</figcaption>
+</figure>
 
 <br>
 <hr>
@@ -117,7 +126,7 @@ Let's take linear models as an example - extending from what is described above.
 
 Here we can check out both the <strong>binomial</strong> and <strong>tree-methods</strong> files - examples / referenced from a wonderful set of <code>R</code> tutorials.
 
-But one of the most famous and obvious examples can be seen in Anscombe's quartet below.  
+But one of the most famous and obvious examples can be seen in Anscombe's quartet below.
 
 #### 4.2 Anscombe's Quartet
 
