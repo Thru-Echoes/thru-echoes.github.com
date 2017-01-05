@@ -8,17 +8,21 @@ image:
   creditlink:
 ---
 
-I am a PhD student at UC Berkeley working on computational ecology. I am very interested in open source & access, data science & visualization, the state of modern science, and the stochastic nature of subjective & objective reality. Modelization by random realization.
+I am a PhD student at UC Berkeley working on computational ecology - ranging from my involvement with the [PEARL project](http://pearl.berkeley.edu/), mapping global distributions of parasites as functions of climate change, to developing genetic algorithms in order to address ecological-evolutionary questions about monomorphism in mammalian carnivore scavenging behavior. I am very interested in open source & access, data science & visualization, and the stochastic nature of subjective & objective reality. Modelization by random realization.
 
 ## My Research and Broader Goals
 
-I like to use genetic algorithms, mathematical modeling, and other computational methods (like machine-learning!) to address questions in ecology and evolution. My big-scale dreams are to help create software (primarily browser-based) aimed at those who do not have extensive programming experience. This may refer to computational software - think R for mathematical modeling - and ecology and other academic researchers, students, or teachers. I am primarily working on improving the web-based parts of the Nova modeling software, both as client- and server-side environments, to be able to provide researchers and educators a means of building simulations that use components from dynamical systems, spatial, and agent-based modeling paradigms.  
+Very quick here -
 
-### Tools
+* mathematical modeling (agent based, population, disease models)
+* web app software development
+* machine learning (especially focused on small sample size as most of ecological / environmental science data is)   
+* Foxes! Lookup the Channel Island foxes 
 
-I like Atom from Github as a text editor. I like LaTeX (but it is new for me). I
-like web-based / JavaScript data science and visualization (D3js, NodeJS, etc).
-I like open source. I like open access. I like progress.
+### Papers
+
+* [A web app for single- or multi-Population Viability Analysis](papers/getz_muellerklein_pva.pdf)
+* [Documenting female song in Puerto Rican Orioles](papers/female_song_pr.pdf)
 
 #### Nova Software
 
